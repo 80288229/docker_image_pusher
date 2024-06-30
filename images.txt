@@ -1,2 +1,2 @@
-drone/drone:latest
+drone/drone-runner-docker:latest
 #Ceshi
