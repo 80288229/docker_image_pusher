@@ -1,2 +1,2 @@
-node:18.3.0-alpine
+node:20.15.0-slim
 #Ceshi2
