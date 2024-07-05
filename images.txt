@@ -1,2 +1,2 @@
-node:20.15.0-slim
+appleboy/drone-ssh:latest
 #Ceshi2
