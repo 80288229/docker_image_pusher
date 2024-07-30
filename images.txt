@@ -1,2 +1,4 @@
-appleboy/drone-ssh:latest
+redis:latest
+nacos/nacos-server:latest
+nginx:latest
 #Ceshi2
