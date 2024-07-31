@@ -1,4 +1,2 @@
-redis:latest
-nacos/nacos-server:latest
-nginx:latest
+nacos/nacos-server:2.2.3
 #Ceshi2
