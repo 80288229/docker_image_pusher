@@ -1,2 +1,3 @@
+elasticsearch:8.12.2
 nacos/nacos-server:v2.2.3
 #Ceshi2
