@@ -1,5 +1,4 @@
 java:8
-mobz/elasticsearch-head:5-alpine
 logstash:8.12.2
 elastic/filebeat:8.12.2
 #filebeat:8.12.2
