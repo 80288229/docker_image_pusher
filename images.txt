@@ -1,4 +1,4 @@
-sentinel/sentinel:latest
+bladex/sentinel-dashboard
 logstash:8.12.2
 elastic/filebeat:8.12.2
 #filebeat:8.12.2
