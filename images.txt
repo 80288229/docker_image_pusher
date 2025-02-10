@@ -1,4 +1,4 @@
-java:8
+sentinel/sentinel:latest
 logstash:8.12.2
 elastic/filebeat:8.12.2
 #filebeat:8.12.2
