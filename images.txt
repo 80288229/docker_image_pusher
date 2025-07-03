@@ -1,9 +1,1 @@
-bladex/sentinel-dashboard
-logstash:8.12.2
-elastic/filebeat:8.12.2
-#filebeat:8.12.2
-kibana:8.12.2
-elasticsearch:8.12.2
-nacos/nacos-server:v2.2.3
-gitlab/gitlab-ce
-#Ceshi1124-1204
+gitlab/gitlab-ce::latest
