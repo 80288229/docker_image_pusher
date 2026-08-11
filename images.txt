@@ -1,4 +1,1 @@
-primetoninc/jdk:1.8
-openjdk:8u102-jdk
-gitlab/gitlab-ce:nightly
-gitlab/gitlab-ce:latest
+mysql:8.4.11
